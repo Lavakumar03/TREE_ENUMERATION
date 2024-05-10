@@ -30,3 +30,12 @@ I tested the Predictions on the inference code by loading the saved .best.pt mod
 <a href="https://twitter.com/A_LavaKumar_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshrangala13" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arigela-lavakumar-260b72284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-rangala-455163233" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_lava_kumar_naidu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_mm7" height="30" width="40" /></a>
+
+## About me
+🎓 Passionate about AI & ML; thriving academic journey at [Centurion University]; eager to apply tech for real-world solutions.
+
+💻 Delving into AI & ML; focus on learning DSA for practical application.
+
+🚀 Working on AI to deepen understanding; open to collaboration for innovative exploration.
+
+🌱 Lifelong learner; expanding skill set in specific technologies to push AI & ML boundaries.
