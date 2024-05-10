@@ -18,7 +18,15 @@ The main objective of this project is to provide a tool for efficiently and accu
 - OpenCV
 - YOLO (You Only Look Once) for object detection
 
-## Installation
-1. Clone the repository:
+## output images
 
+![output](https://github.com/Lavakumar03/TREE_ENUMERATION/assets/129269758/3e49ec36-0098-4281-9d19-12fa6829b6d1)
+![ouput1](https://github.com/Lavakumar03/TREE_ENUMERATION/assets/129269758/500f53fe-dbc7-42fd-9012-841b38922209)
 
+I tested the Predictions on the inference code by loading the saved .best.pt model file and testing it on the new images. The model predictions came out to be good as shown in the figures
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/A_LavaKumar_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshrangala13" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arigela-lavakumar-260b72284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-rangala-455163233" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_lava_kumar_naidu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_mm7" height="30" width="40" /></a>
